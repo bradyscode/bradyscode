@@ -20,5 +20,4 @@ C#, .NET Core, .NET Framework, React, Vue... more to come
 I'm currently working on an [API for a personal training company](https://github.com/bradyscode/calorie-buddy-dot-net) that is looking to expand their website to add the functionality of meal planning, calorie counting, as well as other things.
 
 
-![logo](https://user-images.githubusercontent.com/58865862/162867934-ae64015e-b67d-42fd-9867-5370ed2ccc27.png)
-
+![logo-dark (1)](https://user-images.githubusercontent.com/58865862/169107560-41e8e78b-e5b2-49b1-9858-5a88b907af5d.png)
