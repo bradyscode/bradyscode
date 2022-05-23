@@ -21,3 +21,7 @@ I'm currently working on an [API for a personal training company](https://github
 
 
 ![logo-dark (1)](https://user-images.githubusercontent.com/58865862/169107560-41e8e78b-e5b2-49b1-9858-5a88b907af5d.png)
+
+<p align="center">
+  <img width="60%" height="100%" style="display:inline;height:200px;width:auto;" align="center" src="https://github-readme-stats.vercel.app/api?username=bradyscode&count_private=true&theme=github_dark&show_icons=true" />
+  </p>
