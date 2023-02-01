@@ -17,7 +17,7 @@ C#, .NET Core, .NET Framework, React, Vue... more to come
 
 
 ## Currently Working On:
-I'm currently working on an [API for a personal training company](https://github.com/bradyscode/calorie-buddy-dot-net) that is looking to expand their website to add the functionality of meal planning, calorie counting, as well as other things.
+I'm currently working on an [API for general health](https://github.com/bradyscode/calorie-buddy-dot-net) that is meant to help users easily access information such as meals, workouts, macro splits, and other useful features based on their goals for fitness.
 
 <div align="center">
   
