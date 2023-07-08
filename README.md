@@ -3,11 +3,11 @@
 
 
 ## 🚀 About Me
-I'm a software engineer currently working in Indiana, USA. I primarily work professionaly on  web applications and manage to learn as much as I can about fullstack development when I am working on personal projects.
+I'm a software engineer currently working in Indiana, USA. I primarily work professionally on  web applications and manage to learn as much as I can about full-stack development when I am working on personal projects.
 
 
 ## 🛠 Skills
-C#, .NET Core, .NET Framework, React, Vue... more to come
+C#, .NET Core, .NET Framework, React, Vue, Angular, Electron... more to come
 
 
 ## 🔗 Links
