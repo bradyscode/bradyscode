@@ -3,7 +3,7 @@
 
 ```cs
 
-struct MyProfile
+public class MyProfile
 {
     public static string WhoAmI()
     {
